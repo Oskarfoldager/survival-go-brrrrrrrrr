@@ -1,0 +1,307 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1526; Version 2009; 64bit' Language: 'da' Physical Memory: 16260 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/folda/games/survival-go-brrrrrrrrr/survival yq
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63182
+Successfully changed project path to: C:/Users/folda/games/survival-go-brrrrrrrrr/survival yq
+C:/Users/folda/games/survival-go-brrrrrrrrr/survival yq
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/folda/games/survival-go-brrrrrrrrr/survival yq/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 5100 (ID=0xa2e)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.5171
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56976
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004318 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.898 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1899ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (649ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (239ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (216ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (56ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (101ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.499 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1501ms)
+		BeginReloadAssembly (194ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1207ms)
+			LoadAssemblies (139ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (394ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (442ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (244ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2290 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.2 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2723.
+Total: 4.787200 ms (FindLiveObjects: 0.387300 ms CreateObjectMapping: 0.280000 ms MarkObjects: 4.018000 ms  DeleteObjects: 0.100700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Assets.index
+  artifactKey: Guid(1a863959ba80bfd4a99d100ee1cc77f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets.index using Guid(1a863959ba80bfd4a99d100ee1cc77f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d87502deed4116ed588d3376332af7') in 0.093020 seconds 
+  Import took 0.098482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.772287 seconds.
+  path: Packages/com.unity.2d.animation/CHANGELOG.md
+  artifactKey: Guid(29c81981f22b24a2c8585a80ec3ee610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/CHANGELOG.md using Guid(29c81981f22b24a2c8585a80ec3ee610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f77125e5463895125e16ec807f1bcd') in 0.008962 seconds 
+  Import took 0.015225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateGeometryPanelStyle.uss
+  artifactKey: Guid(3a255b868cdf39a4494f59819f0ff29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateGeometryPanelStyle.uss using Guid(3a255b868cdf39a4494f59819f0ff29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4d94f4959f0041c64f224ace729609') in 0.023249 seconds 
+  Import took 0.032080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateWeightsPanel.uxml
+  artifactKey: Guid(676867f8653a3ec40a598ba3ccea79c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateWeightsPanel.uxml using Guid(676867f8653a3ec40a598ba3ccea79c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca3f75ca7b6e74dd40ca95c914744a8') in 0.027903 seconds 
+  Import took 0.035032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule
+  artifactKey: Guid(4fccdb4aa9dd0db43becdec2eea211af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule using Guid(4fccdb4aa9dd0db43becdec2eea211af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a265cb973e699dd1274805c47ae0e8') in 0.006771 seconds 
+  Import took 0.012819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000608 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateGeometryPanel.uxml
+  artifactKey: Guid(d62df6d8cd1bb504dbae262bb6d6efe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateGeometryPanel.uxml using Guid(d62df6d8cd1bb504dbae262bb6d6efe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebb3aa708b54b753ae1d11d21d82289') in 0.008121 seconds 
+  Import took 0.015503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001549 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateWeightsPanelStyle.uss
+  artifactKey: Guid(24c60fb4e4533094889a2aa33ce92889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/GenerateWeightsPanelStyle.uss using Guid(24c60fb4e4533094889a2aa33ce92889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262f7448d0957af7a12daf2385b6a385') in 0.006302 seconds 
+  Import took 0.016891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106162 seconds.
+  path: Packages/com.unity.2d.animation/Editor/SkinningModule/Undo/UnityEngineUndo.cs
+  artifactKey: Guid(609d69ce95fbbe148aac9ed99bf92679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/SkinningModule/Undo/UnityEngineUndo.cs using Guid(609d69ce95fbbe148aac9ed99bf92679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f895cf997f44ef0d7fb76185be9f943b') in 0.013067 seconds 
+  Import took 0.020509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Packages/com.unity.2d.animation/Runtime/Triangle/Geometry/RegionPointer.cs
+  artifactKey: Guid(5c8f0437817e84603a4785292a7e5242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Runtime/Triangle/Geometry/RegionPointer.cs using Guid(5c8f0437817e84603a4785292a7e5242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b3455ad041dc83d509f9b46c0d9d90') in 0.004945 seconds 
+  Import took 0.012780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Packages/com.unity.2d.psdimporter/Editor/PSDPlugin
+  artifactKey: Guid(c21e2663cf9e69a40b8ac0838a3f9ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.psdimporter/Editor/PSDPlugin using Guid(c21e2663cf9e69a40b8ac0838a3f9ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a9978b1a99b836981a694c17e754835') in 0.004943 seconds 
+  Import took 0.013626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000867 seconds.
+  path: Packages/com.unity.2d.psdimporter/Editor/PSDPlugin/PsdPlugin.asmdef
+  artifactKey: Guid(73a61a380edacb34795f31a3ec21c2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.psdimporter/Editor/PSDPlugin/PsdPlugin.asmdef using Guid(73a61a380edacb34795f31a3ec21c2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c3ff3d82941376f908068334a0fcf4') in 0.024755 seconds 
+  Import took 0.044629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Packages/com.unity.2d.animation/IK/Editor/IKGizmos.cs
+  artifactKey: Guid(40548468add2f5c4694bff827b24d425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/IK/Editor/IKGizmos.cs using Guid(40548468add2f5c4694bff827b24d425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5717a1319b4cf86964d67f005f342691') in 0.006397 seconds 
+  Import took 0.012982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Packages/com.unity.2d.animation/Editor/SpriteSkin/BoneGizmo.cs
+  artifactKey: Guid(d0bd0aa54cffc442b82bc92946537e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/SpriteSkin/BoneGizmo.cs using Guid(d0bd0aa54cffc442b82bc92946537e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c21d293c37504f5ea54ee0b0d1d114') in 0.006118 seconds 
+  Import took 0.015825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000618 seconds.
+  path: Packages/com.unity.2d.animation/Runtime/Triangle/Meshing/Iterators/RegionIterator.cs
+  artifactKey: Guid(a82556ec642d74b2f83095af97dce435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Runtime/Triangle/Meshing/Iterators/RegionIterator.cs using Guid(a82556ec642d74b2f83095af97dce435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a151376a6630529bedd369765c6d3f3') in 0.006977 seconds 
+  Import took 0.014837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Packages/com.unity.2d.animation/Runtime/Triangle/Logging/ILogItem.cs
+  artifactKey: Guid(833bedb11c85e4260a9ec09f2f773258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Runtime/Triangle/Logging/ILogItem.cs using Guid(833bedb11c85e4260a9ec09f2f773258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99299db6b16d8fcc31199cc7820dfec') in 0.006167 seconds 
+  Import took 0.015306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Layouts/Paginator.uxml
+  artifactKey: Guid(e72dabe7b3837a04b8e930aab7f381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Layouts/Paginator.uxml using Guid(e72dabe7b3837a04b8e930aab7f381df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e043f4b0b3ad7a1c305ec971564ebe') in 0.006024 seconds 
+  Import took 0.013749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Packages/com.unity.2d.animation/Runtime/Triangle/Logging
+  artifactKey: Guid(12bf6e7f64391465d8d8ef95ca3a996b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Runtime/Triangle/Logging using Guid(12bf6e7f64391465d8d8ef95ca3a996b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24aaa4a181656494462d9ccab0c8063b') in 0.005259 seconds 
+  Import took 0.012298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Packages/com.unity.2d.common/Runtime/InternalBridge/InternalEngineBridge.cs
+  artifactKey: Guid(74d5c6e86f4a1214ca6e9737086f7468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.common/Runtime/InternalBridge/InternalEngineBridge.cs using Guid(74d5c6e86f4a1214ca6e9737086f7468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1d2f39ad7da8f3047e65540ecd7fd4') in 0.008254 seconds 
+  Import took 0.018091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Packages/com.unity.2d.animation/Runtime/Triangle/Logging/LogItem.cs
+  artifactKey: Guid(a4a265973daf84c31b1feb0b2f1f44a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Runtime/Triangle/Logging/LogItem.cs using Guid(a4a265973daf84c31b1feb0b2f1f44a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77f8236a23eadf1ed2c8387fd537c49') in 0.007077 seconds 
+  Import took 0.021325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Packages/com.unity.2d.animation/Editor/SpriteSkin/BoneGizmoToggle.cs
+  artifactKey: Guid(627558f812b9bb944851932d0a8d80d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/SpriteSkin/BoneGizmoToggle.cs using Guid(627558f812b9bb944851932d0a8d80d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413ec655c6818e4ad1a06baa13568262') in 0.005303 seconds 
+  Import took 0.014484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Packages/com.unity.2d.animation/Runtime/Triangle/Voronoi/Legacy/VoronoiRegion.cs
+  artifactKey: Guid(3a77eab5a6c484379b637070c9da9793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Runtime/Triangle/Voronoi/Legacy/VoronoiRegion.cs using Guid(3a77eab5a6c484379b637070c9da9793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0821b6481d4ae1d99d93db87e4577d') in 0.004477 seconds 
+  Import took 0.012849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.515912 seconds.
+  path: Packages/com.unity.timeline/Editor/Manipulators/Move/MovingItems.cs
+  artifactKey: Guid(81a142c61a4e14d46bb21b02548ad24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/Manipulators/Move/MovingItems.cs using Guid(81a142c61a4e14d46bb21b02548ad24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dde43111b6c11239555a036f014e2d4') in 0.004025 seconds 
+  Import took 0.010006 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
